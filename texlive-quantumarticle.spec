@@ -1,6 +1,6 @@
 Name:		texlive-quantumarticle
-Version:	62944
-Release:	2
+Version:	65242
+Release:	1
 Summary:	Document class for submissions to the Quantum journal
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/quantumarticle
